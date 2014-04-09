@@ -1992,7 +1992,23 @@
         "Tests Included",
         "Python", "Google App Engine"
       ]
+    },
+    {
+      "name": "Coding Hire",
+      "thumb": "codinghire/thumb.png",
+      "desc": "Coding Hire helps you do technical phone interviews of software developers.",
+      "url": "https://codinghire.com",
+      "info": "https://codinghire.com/updates",
+      "submitter": "bennoland",
+      "submissionDate": "2014-04-08",
+      "tags": [
+        "Production",
+        "Productivity", 
+        "Hiring",
+        "Interviewing",
+        "Real Time",
+        "jQuery"
+      ]
     }
-
   ]
 }
